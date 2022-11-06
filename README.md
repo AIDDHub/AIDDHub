@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AIDDHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cheminformatics, Python, C++, AIDD.
+- 💞️ I’m looking to collaborate on the development of RDKitNode.
+- 📫 How to reach me: [AIDDHub](https://AIDDHub.github.io)
+
+## 🌱 **My Repositories**
+### Node-based rdkit toolbox
+- **[RDKitNode](https://github.com/AIDDHub/RDKitNode)**
 
 <!---
 AIDDHub/AIDDHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
