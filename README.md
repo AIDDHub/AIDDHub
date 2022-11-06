@@ -5,7 +5,7 @@
 
 ## 🌱 **My Repositories**
 ### Node-based rdkit toolbox
-- **[RDKitNode](https://github.com/AIDDHub/RDNode)**
+- **[RDNode](https://github.com/AIDDHub/RDNode)**
 
 <!---
 AIDDHub/AIDDHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
